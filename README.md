@@ -30,3 +30,5 @@ Data type
 
 # service --> parernt component ---> child component
 # service should stay in parent component
+# private variable is the variable can be accessed within the class 
+# even html cannot access it if you declare as private variable
